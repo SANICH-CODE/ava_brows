@@ -1,1 +1,1 @@
-window.location.href = "https://stop.vass-group.xyz/";
+// window.location.href = "https://stop.vass-group.xyz/";
