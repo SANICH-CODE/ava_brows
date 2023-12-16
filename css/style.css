@@ -122,12 +122,12 @@ ol {
 }
 
 .tablegg {
-	width: auto;
-	height: auto;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
-}
+	
+	width: 150%;
+	height: 100vh;
+	margin-left: -300px;
+	height: 100vh;
+	}
 
 @media only screen and (max-width: 600px) {
 		.tablegg {
@@ -138,7 +138,6 @@ ol {
 			overflow: hidden;
 		}
 }
-
 .section-title p {
 	color: #ffffff;
 	margin-bottom: 0;
